@@ -13,7 +13,7 @@ import NavBar from './container/navbar';
         <NavBar/> <br/> 
       
       </header>
-  );
+  )
 }
   }
 
